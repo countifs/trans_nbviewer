@@ -1,2 +1,2 @@
 # trans_nbviewer
-변환용 저장소
+코드 nbviewer 변환용 저장소
